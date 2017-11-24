@@ -1,0 +1,1 @@
+# russian-yasherty.vim
